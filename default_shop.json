@@ -1,0 +1,1300 @@
+{
+   "defaultShop": [
+      {
+         "Cobble Ball": [
+            {
+               "item": "cobblemon:poke_ball",
+               "price": 400
+            },
+            {
+               "item": "cobblemon:citrine_ball",
+               "price": 400
+            },
+            {
+               "item": "cobblemon:verdant_ball",
+               "price": 400
+            },
+            {
+               "item": "cobblemon:azure_ball",
+               "price": 400
+            },
+            {
+               "item": "cobblemon:roseate_ball",
+               "price": 400
+            },
+            {
+               "item": "cobblemon:slate_ball",
+               "price": 400
+            },
+            {
+               "item": "cobblemon:premier_ball",
+               "price": 2500
+            },
+            {
+               "item": "cobblemon:great_ball",
+               "price": 750
+            },
+            {
+               "item": "cobblemon:ultra_ball",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:lure_ball",
+               "price": 1500
+            },
+            {
+               "item": "cobblemon:friend_ball",
+               "price": 1500
+            },
+            {
+               "item": "cobblemon:quick_ball",
+               "price": 2000
+            },
+            {
+               "item": "cobblemon:luxury_ball",
+               "price": 4000
+            },
+            {
+               "item": "cobblemon:master_ball",
+               "price": 310000
+            }
+         ]
+      },
+      {
+         "Ancient Ball": [
+            {
+               "item": "cobblemon:ancient_poke_ball",
+               "price": 300
+            },
+            {
+               "item": "cobblemon:ancient_citrine_ball",
+               "price": 300
+            },
+            {
+               "item": "cobblemon:ancient_verdant_ball",
+               "price": 300
+            },
+            {
+               "item": "cobblemon:ancient_azure_ball",
+               "price": 300
+            },
+            {
+               "item": "cobblemon:ancient_roseate_ball",
+               "price": 300
+            },
+            {
+               "item": "cobblemon:ancient_slate_ball",
+               "price": 300
+            },
+            {
+               "item": "cobblemon:ancient_ivory_ball",
+               "price": 300
+            },
+            {
+               "item": "cobblemon:ancient_great_ball",
+               "price": 700
+            },
+            {
+               "item": "cobblemon:ancient_ultra_ball",
+               "price": 1000
+            }
+         ]
+      },
+      {
+         "Potions": [
+            {
+               "item": "cobblemon:potion",
+               "price": 600
+            },
+            {
+               "item": "cobblemon:super_potion",
+               "price": 900
+            },
+            {
+               "item": "cobblemon:hyper_potion",
+               "price": 1600
+            },
+            {
+               "item": "cobblemon:max_potion",
+               "price": 3500
+            },
+            {
+               "item": "cobblemon:full_heal",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:full_restore",
+               "price": 4000
+            },
+            {
+               "item": "cobblemon:revive",
+               "price": 3000
+            },
+            {
+               "item": "cobblemon:max_revive",
+               "price": 7500
+            }
+         ]
+      },
+      {
+         "Poké Items": [
+            {
+               "item": "cobblemon:galarica_nuts",
+               "price": 3500
+            },
+            {
+               "item": "cobblemon:hp_up",
+               "price": 12500
+            },
+            {
+               "item": "cobblemon:protein",
+               "price": 12500
+            },
+            {
+               "item": "cobblemon:iron",
+               "price": 12500
+            },
+            {
+               "item": "cobblemon:calcium",
+               "price": 12500
+            },
+            {
+               "item": "cobblemon:zinc",
+               "price": 12500
+            },
+            {
+               "item": "cobblemon:carbos",
+               "price": 12500
+            },
+            {
+               "item": "cobblemon:pp_up",
+               "price": 12500
+            }
+         ]
+      },
+      {
+         "Mob Drops": [
+            {
+               "item": "minecraft:feather",
+               "price": 300
+            },
+            {
+               "item": "minecraft:rabbit_hide",
+               "price": 350
+            },
+            {
+               "item": "minecraft:rotten_flesh",
+               "price": 350
+            },
+            {
+               "item": "minecraft:spider_eye",
+               "price": 450
+            },
+            {
+               "item": "minecraft:ink_sac",
+               "price": 400
+            },
+            {
+               "item": "minecraft:bone",
+               "price": 450
+            },
+            {
+               "item": "minecraft:glow_ink_sac",
+               "price": 550
+            },
+            {
+               "item": "minecraft:honeycomb",
+               "price": 550
+            },
+            {
+               "item": "minecraft:gunpowder",
+               "price": 600
+            },
+            {
+               "item": "minecraft:leather",
+               "price": 700
+            },
+            {
+               "item": "minecraft:honey_bottle",
+               "price": 750
+            },
+            {
+               "item": "minecraft:slime_ball",
+               "price": 800
+            },
+            {
+               "item": "minecraft:phantom_membrane",
+               "price": 850
+            },
+            {
+               "item": "minecraft:magma_cream",
+               "price": 900
+            },
+            {
+               "item": "minecraft:prismarine_shard",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:ender_pearl",
+               "price": 1600
+            },
+            {
+               "item": "minecraft:ghast_tear",
+               "price": 1600
+            },
+            {
+               "item": "minecraft:breeze_rod",
+               "price": 2200
+            },
+            {
+               "item": "minecraft:blaze_rod",
+               "price": 2700
+            },
+            {
+               "item": "minecraft:verdant_froglight",
+               "price": 3000
+            },
+            {
+               "item": "minecraft:ochre_froglight",
+               "price": 3000
+            },
+            {
+               "item": "minecraft:pearlescent_froglight",
+               "price": 3000
+            },
+            {
+               "item": "minecraft:heart_of_the_sea",
+               "price": 500000
+            },
+            {
+               "item": "minecraft:nether_star",
+               "price": 500000
+            }
+         ]
+      },
+      {
+         "Blocos": [
+            {
+               "item": "minecraft:sculk",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:sculk_sensor",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:sculk_shrieker",
+               "price": 1000
+            }
+         ]
+      },
+      {
+         "Berries": [
+            {
+               "item": "cobblemon:oran_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:cheri_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:chesto_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:pecha_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:rawst_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:aspear_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:persim_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:razz_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:bluk_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:nanab_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:wepear_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:pinap_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:occa_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:passho_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:wacan_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:rindo_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:yache_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:chople_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:kebia_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:shuca_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:coba_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:payapa_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:tanga_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:charti_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:kasib_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:haban_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:colbur_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:babiri_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:chilan_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:roseli_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:leppa_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:lum_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:hopo_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:figy_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:iapapa_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:wiki_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:aguav_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:mago_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:sitrus_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:touga_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:cornn_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:magost_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:rabuta_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:nomel_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:spelon_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:pamtre_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:watmel_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:durin_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:belue_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:enigma_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:kee_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:maranga_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:pomeg_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:kelpsy_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:qualot_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:hondew_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:grepa_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:tamato_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:liechi_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:ganlon_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:petaya_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:apicot_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:salac_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:starf_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:lansat_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:micle_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:custap_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:jaboca_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:rowap_berry",
+               "price": 10000
+            }
+         ]
+      },
+      {
+         "Berries Assadas": [
+            {
+               "item": "cobblecuisine:roasted_aspear_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_cheri_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_chesto_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_leppa_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_lum_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_oran_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_pecha_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_persim_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_rawst_berry",
+               "price": 15000
+            },
+            {
+               "item": "cobblecuisine:roasted_sitrus_berry",
+               "price": 15000
+            }
+         ]
+      },
+      {
+         "Comidas": [
+            {
+               "item": "minecraft:milk_bucket",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:mutton",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:porkchop",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:beef",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:chicken",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:rabbit",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:cod",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:salmon",
+               "price": 1000
+            },
+            {
+               "item": "cobblecuisine:eclair",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:fruity_flan",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:dubious_food",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:iced_coffee",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:lemon_soda",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:fruit_punch",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:lilligant_floral_tea",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:miltank_mix_au_lait",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:protein_smoothie",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spice_mix",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:salad_mix",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:kantonian_crepe",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:alolan_blue_shaved_ice",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:pepper_steak",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:ceviche",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:pickled_toedscool_and_cucumber",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:hoennian_melon_stir_fry",
+               "price": 10000
+            }
+         ]
+      },
+      {
+         "Bolos": [
+            {
+               "item": "cobblecuisine:twin_mushroom_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:red_mushroom_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:brown_mushroom_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:fruit_honey_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:vegetable_honey_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:berry_grain_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:seed_grain_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:red_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:yellow_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:green_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:orange_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:blue_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:salt_cake",
+               "price": 10000
+            }
+         ]
+      },
+      {
+         "Malasadas": [
+            {
+               "item": "cobblecuisine:sweet_malasada",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spicy_malasada",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:sour_malasada",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:bitter_malasada",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:dry_malasada",
+               "price": 10000
+            }
+         ]
+      },
+      {
+         "Pokepuffs": [
+            {
+               "item": "cobblecuisine:sweet_pokepuff",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:mint_pokepuff",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:citrus_pokepuff",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:mocha_pokepuff",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spice_pokepuff",
+               "price": 10000
+            }
+         ]
+      },
+      {
+         "Curries": [
+            {
+               "item": "cobblecuisine:sweet_apple_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:sweet_whipped_cream_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:bitter_herb_medley_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:bitter_leek_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:salty_boiled_egg_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:dry_frozen_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spicy_mushroom_medley_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spicy_potato_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:dry_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:dry_bone_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:dry_smoked_tail_curry",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:bean_medley_curry",
+               "price": 10000
+            }
+         ]
+      },
+      {
+         "Sanduiches": [
+            {
+               "item": "cobblecuisine:sour_pickle_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:sour_zesty_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:sweet_jam_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:sweet_potato_salad_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:salty_vegetable_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:salty_egg_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:bitter_variety_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:bitter_jambon_beurre",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spicy_five_alarm_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spicy_claw_sandwich",
+               "price": 10000
+            }
+         ]
+      },
+      {
+         "Pokéshakes": [
+            {
+               "item": "cobblecuisine:low_green_shake",
+               "price": 1000
+            },
+            {
+               "item": "cobblecuisine:low_red_shake",
+               "price": 1000
+            },
+            {
+               "item": "cobblecuisine:low_blue_shake",
+               "price": 1000
+            },
+            {
+               "item": "cobblecuisine:low_purple_shake",
+               "price": 1000
+            },
+            {
+               "item": "cobblecuisine:low_yellow_shake",
+               "price": 1000
+            },
+            {
+               "item": "cobblecuisine:low_pink_shake",
+               "price": 1000
+            },
+            {
+               "item": "cobblecuisine:medium_green_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:medium_red_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:medium_blue_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:medium_purple_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:medium_yellow_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:medium_pink_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:high_green_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_red_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_blue_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_purple_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_yellow_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_pink_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:regular_jewel_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_earthy_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_violet_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_verdant_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_coral_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_bb_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:deluxe_jewel_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_earthy_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_violet_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_verdant_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_coral_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_bb_shake",
+               "price": 10000
+            }
+         ]
+      },
+      {
+         "Beans": [
+            {
+               "item": "cobblecuisine:bean_seeds",
+               "price": 500
+            },
+            {
+               "item": "cobblecuisine:red_bean",
+               "price": 2000
+            },
+            {
+               "item": "cobblecuisine:yellow_bean",
+               "price": 2000
+            },
+            {
+               "item": "cobblecuisine:green_bean",
+               "price": 2000
+            },
+            {
+               "item": "cobblecuisine:orange_bean",
+               "price": 2000
+            },
+            {
+               "item": "cobblecuisine:blue_bean",
+               "price": 2000
+            }
+         ]
+      },
+      {
+         "Minérios": [
+            {
+               "item": "minecraft:coal",
+               "price": 100
+            },
+            {
+               "item": "minecraft:raw_copper",
+               "price": 500
+            },
+            {
+               "item": "minecraft:raw_iron",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:raw_gold",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:diamond",
+               "price": 2000
+            },
+            {
+               "item": "minecraft:emerald",
+               "price": 750
+            },
+            {
+               "item": "minecraft:netherite_scrap",
+               "price": 35000
+            }
+         ]
+      },
+      {
+         "Minérios (Barra)": [
+            {
+               "item": "minecraft:copper_ingot",
+               "price": 600
+            },
+            {
+               "item": "minecraft:iron_ingot",
+               "price": 1100
+            },
+            {
+               "item": "minecraft:gold_ingot",
+               "price": 1100
+            },
+            {
+               "item": "minecraft:netherite_ingot",
+               "price": 100000
+            }
+         ]
+      },
+      {
+         "Z-Move": [
+            {
+               "item": "mega_showdown:sparkling_stone_dark",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:sparkling_stone_light",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:z-ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:z-ring_yellow",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:z-ring_green",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:z-ring_blue",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:z-ring_pink",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:z-ring_red",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:olivias_z-ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:hapus_z-ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:z-power_ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:olivia_z-power_ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:hapu_z-power_ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:rocket_z-power_ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:gladion_z-power_ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:nanu_z-power_ring",
+               "price": 500000
+            }
+         ]
+      },
+      {
+         "Dynamax": [
+            {
+               "item": "mega_showdown:wishing_star",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:dynamax_band",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:max_mushroom",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:dynamax_candy",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:power_spot",
+               "price": 200000
+            }
+         ]
+      },
+      {
+         "Tera": [
+            {
+               "item": "mega_showdown:tera_orb",
+               "price": 50000
+            }
+         ]
+      },
+      {
+         "Mega": [
+            {
+               "item": "mega_showdown:keystone",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:megabracelet",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_red",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_yellow",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_pink",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_green",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_blue",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_black",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megaring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:brendan_mega_cuff",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:lysandre_ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:korrina_glove",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:maxie_glasses",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:archie_anchor",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:may_bracelet",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:lisia_mega_tiara",
+               "price": 500000
+            }
+         ]
+      },
+      {
+         "Omni Ring": [
+            {
+               "item": "mega_showdown:omni_ring",
+               "price": 1500000
+            }
+         ]
+      }
+   ]
+}
