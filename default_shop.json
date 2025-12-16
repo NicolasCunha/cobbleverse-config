@@ -285,6 +285,10 @@
             {
                "item": "minecraft:sculk_shrieker",
                "price": 1000
+            },
+            {
+               "item" : "minecraft:bookshelf",
+               "price": 1000,
             }
          ]
       },
@@ -1087,6 +1091,14 @@
                "price": 1000
             },
             {
+               "item": "minecraft:redstone",
+               "price": 100
+            },
+            {
+               "item": "minecraft:lapis_lazuli",
+               "price": 100
+            },
+            {
                "item": "minecraft:diamond",
                "price": 2000
             },
@@ -1113,6 +1125,14 @@
             {
                "item": "minecraft:gold_ingot",
                "price": 1100
+            },
+            {
+               "item": "minecraft:redstone_block",
+               "price": 800,
+            },
+            {
+               "item": "minecraft:lapis_block",
+               "price": 800
             },
             {
                "item": "minecraft:netherite_ingot",
