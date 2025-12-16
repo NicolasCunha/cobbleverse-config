@@ -33,6 +33,7 @@ Modificações nas lojas:
     - Equipamentos para uso de Z-Move, Tera e Mega. Omni-ring também.
     - Todas as comidas do Cobblecuisine
     - Blocos de Sculk, Sensor e Shrieker, pra não precisar ficar indo atrás de deepdark
+    - Bloco de Bookshelf
 
 Modificações nos loots:
 - Removido esmeralda
