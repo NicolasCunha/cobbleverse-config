@@ -1,3 +1,5 @@
+Versão: 1.6
+
 Ideias servidor novo (requer mexer no servidor ou mods):
 
 - Adicionado recursos básicos do minecraft a venda na lojinha
