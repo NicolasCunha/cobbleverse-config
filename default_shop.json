@@ -1,1318 +1,5682 @@
 {
-   "defaultShop":[
+   "defaultShop": [
       {
-         "Cobble Ball":[
+         "Minérios": [
             {
-               "item":"cobblemon:poke_ball",
-               "price":400
+               "item": "minecraft:coal",
+               "price": 100
             },
             {
-               "item":"cobblemon:citrine_ball",
-               "price":400
+               "item": "minecraft:raw_copper",
+               "price": 500
             },
             {
-               "item":"cobblemon:verdant_ball",
-               "price":400
+               "item": "minecraft:raw_iron",
+               "price": 1000
             },
             {
-               "item":"cobblemon:azure_ball",
-               "price":400
+               "item": "minecraft:raw_gold",
+               "price": 1000
             },
             {
-               "item":"cobblemon:roseate_ball",
-               "price":400
+               "item": "minecraft:redstone",
+               "price": 100
             },
             {
-               "item":"cobblemon:slate_ball",
-               "price":400
+               "item": "minecraft:lapis_lazuli",
+               "price": 100
             },
             {
-               "item":"cobblemon:premier_ball",
-               "price":2500
+               "item": "minecraft:diamond",
+               "price": 2000
             },
             {
-               "item":"cobblemon:great_ball",
-               "price":750
+               "item": "minecraft:emerald",
+               "price": 750
             },
             {
-               "item":"cobblemon:ultra_ball",
-               "price":1000
+               "item": "minecraft:amethyst_shard",
+               "price": 500
             },
             {
-               "item":"cobblemon:lure_ball",
-               "price":1500
+               "item": "minecraft:quartz",
+               "price": 300
             },
             {
-               "item":"cobblemon:friend_ball",
-               "price":1500
-            },
-            {
-               "item":"cobblemon:quick_ball",
-               "price":2000
-            },
-            {
-               "item":"cobblemon:luxury_ball",
-               "price":4000
-            },
-            {
-               "item":"cobblemon:master_ball",
-               "price":310000
+               "item": "minecraft:netherite_scrap",
+               "price": 35000
             }
          ]
       },
       {
-         "Ancient Ball":[
+         "Minérios (Barra)": [
             {
-               "item":"cobblemon:ancient_poke_ball",
-               "price":300
+               "item": "minecraft:copper_ingot",
+               "price": 600
             },
             {
-               "item":"cobblemon:ancient_citrine_ball",
-               "price":300
+               "item": "minecraft:iron_ingot",
+               "price": 1100
             },
             {
-               "item":"cobblemon:ancient_verdant_ball",
-               "price":300
+               "item": "minecraft:gold_ingot",
+               "price": 1100
             },
             {
-               "item":"cobblemon:ancient_azure_ball",
-               "price":300
+               "item": "minecraft:redstone_block",
+               "price": 800
             },
             {
-               "item":"cobblemon:ancient_roseate_ball",
-               "price":300
+               "item": "minecraft:lapis_block",
+               "price": 800
             },
             {
-               "item":"cobblemon:ancient_slate_ball",
-               "price":300
-            },
-            {
-               "item":"cobblemon:ancient_ivory_ball",
-               "price":300
-            },
-            {
-               "item":"cobblemon:ancient_great_ball",
-               "price":700
-            },
-            {
-               "item":"cobblemon:ancient_ultra_ball",
-               "price":1000
+               "item": "minecraft:netherite_ingot",
+               "price": 100000
             }
          ]
       },
       {
-         "Potions":[
+         "Mob Drops": [
             {
-               "item":"cobblemon:potion",
-               "price":600
+               "item": "minecraft:feather",
+               "price": 300
             },
             {
-               "item":"cobblemon:super_potion",
-               "price":900
+               "item": "minecraft:rabbit_hide",
+               "price": 350
             },
             {
-               "item":"cobblemon:hyper_potion",
-               "price":1600
+               "item": "minecraft:rotten_flesh",
+               "price": 350
             },
             {
-               "item":"cobblemon:max_potion",
-               "price":3500
+               "item": "minecraft:spider_eye",
+               "price": 450
             },
             {
-               "item":"cobblemon:full_heal",
-               "price":1000
+               "item": "minecraft:ink_sac",
+               "price": 400
             },
             {
-               "item":"cobblemon:full_restore",
-               "price":4000
+               "item": "minecraft:bone",
+               "price": 450
             },
             {
-               "item":"cobblemon:revive",
-               "price":3000
+               "item": "minecraft:glow_ink_sac",
+               "price": 550
             },
             {
-               "item":"cobblemon:max_revive",
-               "price":7500
+               "item": "minecraft:honeycomb",
+               "price": 550
+            },
+            {
+               "item": "minecraft:gunpowder",
+               "price": 600
+            },
+            {
+               "item": "minecraft:leather",
+               "price": 700
+            },
+            {
+               "item": "minecraft:honey_bottle",
+               "price": 750
+            },
+            {
+               "item": "minecraft:slime_ball",
+               "price": 800
+            },
+            {
+               "item": "minecraft:phantom_membrane",
+               "price": 850
+            },
+            {
+               "item": "minecraft:magma_cream",
+               "price": 900
+            },
+            {
+               "item": "minecraft:prismarine_shard",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:ender_pearl",
+               "price": 1600
+            },
+            {
+               "item": "minecraft:ghast_tear",
+               "price": 1600
+            },
+            {
+               "item": "minecraft:breeze_rod",
+               "price": 2200
+            },
+            {
+               "item": "minecraft:blaze_rod",
+               "price": 2700
+            },
+            {
+               "item": "minecraft:verdant_froglight",
+               "price": 3000
+            },
+            {
+               "item": "minecraft:ochre_froglight",
+               "price": 3000
+            },
+            {
+               "item": "minecraft:pearlescent_froglight",
+               "price": 3000
+            },
+            {
+               "item": "minecraft:heart_of_the_sea",
+               "price": 50000
+            },
+            {
+               "item": "minecraft:nether_star",
+               "price": 50000
             }
          ]
       },
       {
-         "Poké Items":[
+         "Cobble Ball": [
             {
-               "item":"cobblemon:galarica_nuts",
-               "price":3500
+               "item": "cobblemon:poke_ball",
+               "price": 400
             },
             {
-               "item":"cobblemon:hp_up",
-               "price":12500
+               "item": "cobblemon:citrine_ball",
+               "price": 400
             },
             {
-               "item":"cobblemon:protein",
-               "price":12500
+               "item": "cobblemon:verdant_ball",
+               "price": 400
             },
             {
-               "item":"cobblemon:iron",
-               "price":12500
+               "item": "cobblemon:azure_ball",
+               "price": 400
             },
             {
-               "item":"cobblemon:calcium",
-               "price":12500
+               "item": "cobblemon:roseate_ball",
+               "price": 400
             },
             {
-               "item":"cobblemon:zinc",
-               "price":12500
+               "item": "cobblemon:slate_ball",
+               "price": 400
             },
             {
-               "item":"cobblemon:carbos",
-               "price":12500
+               "item": "cobblemon:premier_ball",
+               "price": 2500
             },
             {
-               "item":"cobblemon:pp_up",
-               "price":12500
+               "item": "cobblemon:great_ball",
+               "price": 750
+            },
+            {
+               "item": "cobblemon:ultra_ball",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:lure_ball",
+               "price": 1500
+            },
+            {
+               "item": "cobblemon:friend_ball",
+               "price": 1500
+            },
+            {
+               "item": "cobblemon:quick_ball",
+               "price": 2000
+            },
+            {
+               "item": "cobblemon:luxury_ball",
+               "price": 4000
+            },
+            {
+               "item": "cobblemon:master_ball",
+               "price": 310000
             }
          ]
       },
       {
-         "Mob Drops":[
+         "Ancient Ball": [
             {
-               "item":"minecraft:feather",
-               "price":300
+               "item": "cobblemon:ancient_poke_ball",
+               "price": 300
             },
             {
-               "item":"minecraft:rabbit_hide",
-               "price":350
+               "item": "cobblemon:ancient_citrine_ball",
+               "price": 300
             },
             {
-               "item":"minecraft:rotten_flesh",
-               "price":350
+               "item": "cobblemon:ancient_verdant_ball",
+               "price": 300
             },
             {
-               "item":"minecraft:spider_eye",
-               "price":450
+               "item": "cobblemon:ancient_azure_ball",
+               "price": 300
             },
             {
-               "item":"minecraft:ink_sac",
-               "price":400
+               "item": "cobblemon:ancient_roseate_ball",
+               "price": 300
             },
             {
-               "item":"minecraft:bone",
-               "price":450
+               "item": "cobblemon:ancient_slate_ball",
+               "price": 300
             },
             {
-               "item":"minecraft:glow_ink_sac",
-               "price":550
+               "item": "cobblemon:ancient_ivory_ball",
+               "price": 300
             },
             {
-               "item":"minecraft:honeycomb",
-               "price":550
+               "item": "cobblemon:ancient_great_ball",
+               "price": 700
             },
             {
-               "item":"minecraft:gunpowder",
-               "price":600
-            },
-            {
-               "item":"minecraft:leather",
-               "price":700
-            },
-            {
-               "item":"minecraft:honey_bottle",
-               "price":750
-            },
-            {
-               "item":"minecraft:slime_ball",
-               "price":800
-            },
-            {
-               "item":"minecraft:phantom_membrane",
-               "price":850
-            },
-            {
-               "item":"minecraft:magma_cream",
-               "price":900
-            },
-            {
-               "item":"minecraft:prismarine_shard",
-               "price":1000
-            },
-            {
-               "item":"minecraft:ender_pearl",
-               "price":1600
-            },
-            {
-               "item":"minecraft:ghast_tear",
-               "price":1600
-            },
-            {
-               "item":"minecraft:breeze_rod",
-               "price":2200
-            },
-            {
-               "item":"minecraft:blaze_rod",
-               "price":2700
-            },
-            {
-               "item":"minecraft:verdant_froglight",
-               "price":3000
-            },
-            {
-               "item":"minecraft:ochre_froglight",
-               "price":3000
-            },
-            {
-               "item":"minecraft:pearlescent_froglight",
-               "price":3000
-            },
-            {
-               "item":"minecraft:heart_of_the_sea",
-               "price":500000
-            },
-            {
-               "item":"minecraft:nether_star",
-               "price":500000
+               "item": "cobblemon:ancient_ultra_ball",
+               "price": 1000
             }
          ]
       },
       {
-         "Blocos":[
+         "Potions": [
             {
-               "item":"minecraft:sculk",
-               "price":1000
+               "item": "cobblemon:potion",
+               "price": 600
             },
             {
-               "item":"minecraft:sculk_sensor",
-               "price":1000
+               "item": "cobblemon:super_potion",
+               "price": 900
             },
             {
-               "item":"minecraft:sculk_shrieker",
-               "price":1000
+               "item": "cobblemon:hyper_potion",
+               "price": 1600
             },
             {
-               "item":"minecraft:bookshelf",
-               "price":1000
+               "item": "cobblemon:max_potion",
+               "price": 3500
+            },
+            {
+               "item": "cobblemon:full_heal",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:full_restore",
+               "price": 4000
+            },
+            {
+               "item": "cobblemon:revive",
+               "price": 3000
+            },
+            {
+               "item": "cobblemon:max_revive",
+               "price": 7500
             }
          ]
       },
       {
-         "Berries":[
+         "Poké Items": [
             {
-               "item":"cobblemon:oran_berry",
-               "price":10000
+               "item": "cobblemon:galarica_nuts",
+               "price": 3500
             },
             {
-               "item":"cobblemon:cheri_berry",
-               "price":10000
+               "item": "cobblemon:hp_up",
+               "price": 12500
             },
             {
-               "item":"cobblemon:chesto_berry",
-               "price":10000
+               "item": "cobblemon:protein",
+               "price": 12500
             },
             {
-               "item":"cobblemon:pecha_berry",
-               "price":10000
+               "item": "cobblemon:iron",
+               "price": 12500
             },
             {
-               "item":"cobblemon:rawst_berry",
-               "price":10000
+               "item": "cobblemon:calcium",
+               "price": 12500
             },
             {
-               "item":"cobblemon:aspear_berry",
-               "price":10000
+               "item": "cobblemon:zinc",
+               "price": 12500
             },
             {
-               "item":"cobblemon:persim_berry",
-               "price":10000
+               "item": "cobblemon:carbos",
+               "price": 12500
             },
             {
-               "item":"cobblemon:razz_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:bluk_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:nanab_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:wepear_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:pinap_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:occa_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:passho_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:wacan_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:rindo_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:yache_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:chople_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:kebia_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:shuca_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:coba_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:payapa_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:tanga_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:charti_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:kasib_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:haban_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:colbur_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:babiri_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:chilan_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:roseli_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:leppa_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:lum_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:hopo_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:figy_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:iapapa_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:wiki_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:aguav_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:mago_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:sitrus_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:touga_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:cornn_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:magost_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:rabuta_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:nomel_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:spelon_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:pamtre_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:watmel_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:durin_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:belue_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:enigma_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:kee_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:maranga_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:pomeg_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:kelpsy_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:qualot_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:hondew_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:grepa_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:tamato_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:liechi_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:ganlon_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:petaya_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:apicot_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:salac_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:starf_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:lansat_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:micle_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:custap_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:jaboca_berry",
-               "price":10000
-            },
-            {
-               "item":"cobblemon:rowap_berry",
-               "price":10000
+               "item": "cobblemon:pp_up",
+               "price": 12500
             }
          ]
       },
       {
-         "Berries Assadas":[
+         "Blocos": [
             {
-               "item":"cobblecuisine:roasted_aspear_berry",
-               "price":15000
+               "item": "minecraft:sculk",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:roasted_cheri_berry",
-               "price":15000
+               "item": "minecraft:sculk_sensor",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:roasted_chesto_berry",
-               "price":15000
+               "item": "minecraft:sculk_shrieker",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:roasted_leppa_berry",
-               "price":15000
+               "item": "minecraft:bookshelf",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:roasted_lum_berry",
-               "price":15000
+               "item": "minecraft:obsidian",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:roasted_oran_berry",
-               "price":15000
-            },
-            {
-               "item":"cobblecuisine:roasted_pecha_berry",
-               "price":15000
-            },
-            {
-               "item":"cobblecuisine:roasted_persim_berry",
-               "price":15000
-            },
-            {
-               "item":"cobblecuisine:roasted_rawst_berry",
-               "price":15000
-            },
-            {
-               "item":"cobblecuisine:roasted_sitrus_berry",
-               "price":15000
+               "item": "minecraft:cobweb",
+               "price": 100
             }
          ]
       },
       {
-         "Comidas":[
+         "Berries": [
             {
-               "item":"minecraft:milk_bucket",
-               "price":1000
+               "item": "cobblemon:oran_berry",
+               "price": 10000
             },
             {
-               "item":"minecraft:mutton",
-               "price":1000
+               "item": "cobblemon:cheri_berry",
+               "price": 10000
             },
             {
-               "item":"minecraft:porkchop",
-               "price":1000
+               "item": "cobblemon:chesto_berry",
+               "price": 10000
             },
             {
-               "item":"minecraft:beef",
-               "price":1000
+               "item": "cobblemon:pecha_berry",
+               "price": 10000
             },
             {
-               "item":"minecraft:chicken",
-               "price":1000
+               "item": "cobblemon:rawst_berry",
+               "price": 10000
             },
             {
-               "item":"minecraft:rabbit",
-               "price":1000
+               "item": "cobblemon:aspear_berry",
+               "price": 10000
             },
             {
-               "item":"minecraft:cod",
-               "price":1000
+               "item": "cobblemon:persim_berry",
+               "price": 10000
             },
             {
-               "item":"minecraft:salmon",
-               "price":1000
+               "item": "cobblemon:razz_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:eclair",
-               "price":10000
+               "item": "cobblemon:bluk_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:fruity_flan",
-               "price":10000
+               "item": "cobblemon:nanab_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:dubious_food",
-               "price":10000
+               "item": "cobblemon:wepear_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:iced_coffee",
-               "price":10000
+               "item": "cobblemon:pinap_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:lemon_soda",
-               "price":10000
+               "item": "cobblemon:occa_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:fruit_punch",
-               "price":10000
+               "item": "cobblemon:passho_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:lilligant_floral_tea",
-               "price":10000
+               "item": "cobblemon:wacan_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:miltank_mix_au_lait",
-               "price":10000
+               "item": "cobblemon:rindo_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:protein_smoothie",
-               "price":10000
+               "item": "cobblemon:yache_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:spice_mix",
-               "price":10000
+               "item": "cobblemon:chople_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:salad_mix",
-               "price":10000
+               "item": "cobblemon:kebia_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:kantonian_crepe",
-               "price":10000
+               "item": "cobblemon:shuca_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:alolan_blue_shaved_ice",
-               "price":10000
+               "item": "cobblemon:coba_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:pepper_steak",
-               "price":10000
+               "item": "cobblemon:payapa_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:ceviche",
-               "price":10000
+               "item": "cobblemon:tanga_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:pickled_toedscool_and_cucumber",
-               "price":10000
+               "item": "cobblemon:charti_berry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:hoennian_melon_stir_fry",
-               "price":10000
+               "item": "cobblemon:kasib_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:haban_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:colbur_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:babiri_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:chilan_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:roseli_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:leppa_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:lum_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:hopo_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:figy_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:iapapa_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:wiki_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:aguav_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:mago_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:sitrus_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:touga_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:cornn_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:magost_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:rabuta_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:nomel_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:spelon_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:pamtre_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:watmel_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:durin_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:belue_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:enigma_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:kee_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:maranga_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:pomeg_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:kelpsy_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:qualot_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:hondew_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:grepa_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:tamato_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:liechi_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:ganlon_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:petaya_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:apicot_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:salac_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:starf_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:lansat_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:micle_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:custap_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:jaboca_berry",
+               "price": 10000
+            },
+            {
+               "item": "cobblemon:rowap_berry",
+               "price": 10000
             }
          ]
       },
       {
-         "Bolos":[
+         "Berries Assadas": [
             {
-               "item":"cobblecuisine:twin_mushroom_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_aspear_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:red_mushroom_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_cheri_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:brown_mushroom_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_chesto_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:fruit_honey_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_leppa_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:vegetable_honey_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_lum_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:berry_grain_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_oran_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:seed_grain_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_pecha_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:red_bean_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_persim_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:yellow_bean_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_rawst_berry",
+               "price": 15000
             },
             {
-               "item":"cobblecuisine:green_bean_cake",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:orange_bean_cake",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:blue_bean_cake",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:salt_cake",
-               "price":10000
+               "item": "cobblecuisine:roasted_sitrus_berry",
+               "price": 15000
             }
          ]
       },
       {
-         "Malasadas":[
+         "Comidas": [
             {
-               "item":"cobblecuisine:sweet_malasada",
-               "price":10000
+               "item": "minecraft:milk_bucket",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:spicy_malasada",
-               "price":10000
+               "item": "minecraft:mutton",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:sour_malasada",
-               "price":10000
+               "item": "minecraft:porkchop",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:bitter_malasada",
-               "price":10000
+               "item": "minecraft:beef",
+               "price": 1000
             },
             {
-               "item":"cobblecuisine:dry_malasada",
-               "price":10000
+               "item": "minecraft:chicken",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:rabbit",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:cod",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:salmon",
+               "price": 1000
+            },
+            {
+               "item": "cobblecuisine:eclair",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:fruity_flan",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:dubious_food",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:coffee",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:lemon_soda",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:fruit_punch",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:lilligant_floral_tea",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:miltank_mix_au_lait",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:protein_smoothie",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spice_mix",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:salad_mix",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:kantonian_crepe",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:alolan_blue_shaved_ice",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:pepper_steak",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:ceviche",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:pickled_toedscool_and_cucumber",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:hoennian_melon_stir_fry",
+               "price": 10000
             }
          ]
       },
       {
-         "Pokepuffs":[
+         "Bolos": [
             {
-               "item":"cobblecuisine:sweet_pokepuff",
-               "price":10000
+               "item": "cobblecuisine:twin_mushroom_cake",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:mint_pokepuff",
-               "price":10000
+               "item": "cobblecuisine:red_mushroom_cake",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:citrus_pokepuff",
-               "price":10000
+               "item": "cobblecuisine:brown_mushroom_cake",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:mocha_pokepuff",
-               "price":10000
+               "item": "cobblecuisine:fruit_honey_cake",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:spice_pokepuff",
-               "price":10000
+               "item": "cobblecuisine:vegetable_honey_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:berry_grain_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:seed_grain_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:red_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:yellow_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:green_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:orange_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:blue_bean_cake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:salt_cake",
+               "price": 10000
             }
          ]
       },
       {
-         "Curries":[
+         "Malasadas": [
             {
-               "item":"cobblecuisine:sweet_apple_curry",
-               "price":10000
+               "item": "cobblecuisine:sweet_malasada",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:sweet_whipped_cream_curry",
-               "price":10000
+               "item": "cobblecuisine:spicy_malasada",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:bitter_herb_medley_curry",
-               "price":10000
+               "item": "cobblecuisine:sour_malasada",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:bitter_leek_curry",
-               "price":10000
+               "item": "cobblecuisine:bitter_malasada",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:salty_boiled_egg_curry",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:dry_frozen_curry",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:spicy_mushroom_medley_curry",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:spicy_potato_curry",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:dry_curry",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:dry_bone_curry",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:dry_smoked_tail_curry",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:bean_medley_curry",
-               "price":10000
+               "item": "cobblecuisine:dry_malasada",
+               "price": 10000
             }
          ]
       },
       {
-         "Sanduiches":[
+         "Pokepuffs": [
             {
-               "item":"cobblecuisine:sour_pickle_sandwich",
-               "price":10000
+               "item": "cobblecuisine:sweet_pokepuff",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:sour_zesty_sandwich",
-               "price":10000
+               "item": "cobblecuisine:mint_pokepuff",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:sweet_jam_sandwich",
-               "price":10000
+               "item": "cobblecuisine:citrus_pokepuff",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:sweet_potato_salad_sandwich",
-               "price":10000
+               "item": "cobblecuisine:mocha_pokepuff",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:salty_vegetable_sandwich",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:salty_egg_sandwich",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:bitter_variety_sandwich",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:bitter_jambon_beurre",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:spicy_five_alarm_sandwich",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:spicy_claw_sandwich",
-               "price":10000
+               "item": "cobblecuisine:spice_pokepuff",
+               "price": 10000
             }
          ]
       },
       {
-         "Pokéshakes":[
+         "Curries": [
             {
-               "item":"cobblecuisine:low_green_shake",
-               "price":1000
+               "item": "cobblecuisine:sweet_apple_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:low_red_shake",
-               "price":1000
+               "item": "cobblecuisine:sweet_whipped_cream_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:low_blue_shake",
-               "price":1000
+               "item": "cobblecuisine:bitter_herb_medley_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:low_purple_shake",
-               "price":1000
+               "item": "cobblecuisine:bitter_leek_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:low_yellow_shake",
-               "price":1000
+               "item": "cobblecuisine:salty_boiled_egg_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:low_pink_shake",
-               "price":1000
+               "item": "cobblecuisine:dry_frozen_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:medium_green_shake",
-               "price":3000
+               "item": "cobblecuisine:spicy_mushroom_medley_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:medium_red_shake",
-               "price":3000
+               "item": "cobblecuisine:spicy_potato_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:medium_blue_shake",
-               "price":3000
+               "item": "cobblecuisine:dry_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:medium_purple_shake",
-               "price":3000
+               "item": "cobblecuisine:dry_bone_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:medium_yellow_shake",
-               "price":3000
+               "item": "cobblecuisine:dry_smoked_tail_curry",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:medium_pink_shake",
-               "price":3000
-            },
-            {
-               "item":"cobblecuisine:high_green_shake",
-               "price":5000
-            },
-            {
-               "item":"cobblecuisine:high_red_shake",
-               "price":5000
-            },
-            {
-               "item":"cobblecuisine:high_blue_shake",
-               "price":5000
-            },
-            {
-               "item":"cobblecuisine:high_purple_shake",
-               "price":5000
-            },
-            {
-               "item":"cobblecuisine:high_yellow_shake",
-               "price":5000
-            },
-            {
-               "item":"cobblecuisine:high_pink_shake",
-               "price":5000
-            },
-            {
-               "item":"cobblecuisine:regular_jewel_shake",
-               "price":7000
-            },
-            {
-               "item":"cobblecuisine:regular_earthy_shake",
-               "price":7000
-            },
-            {
-               "item":"cobblecuisine:regular_violet_shake",
-               "price":7000
-            },
-            {
-               "item":"cobblecuisine:regular_verdant_shake",
-               "price":7000
-            },
-            {
-               "item":"cobblecuisine:regular_coral_shake",
-               "price":7000
-            },
-            {
-               "item":"cobblecuisine:regular_bb_shake",
-               "price":7000
-            },
-            {
-               "item":"cobblecuisine:deluxe_jewel_shake",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:deluxe_earthy_shake",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:deluxe_violet_shake",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:deluxe_verdant_shake",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:deluxe_coral_shake",
-               "price":10000
-            },
-            {
-               "item":"cobblecuisine:deluxe_bb_shake",
-               "price":10000
+               "item": "cobblecuisine:bean_medley_curry",
+               "price": 10000
             }
          ]
       },
       {
-         "Beans":[
+         "Sanduiches": [
             {
-               "item":"cobblecuisine:bean_seeds",
-               "price":500
+               "item": "cobblecuisine:sour_pickle_sandwich",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:red_bean",
-               "price":2000
+               "item": "cobblecuisine:sour_zesty_sandwich",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:yellow_bean",
-               "price":2000
+               "item": "cobblecuisine:sweet_jam_sandwich",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:green_bean",
-               "price":2000
+               "item": "cobblecuisine:sweet_potato_salad_sandwich",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:orange_bean",
-               "price":2000
+               "item": "cobblecuisine:salty_vegetable_sandwich",
+               "price": 10000
             },
             {
-               "item":"cobblecuisine:blue_bean",
-               "price":2000
+               "item": "cobblecuisine:salty_egg_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:bitter_variety_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:bitter_jambon_beurre",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spicy_five_alarm_sandwich",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:spicy_claw_sandwich",
+               "price": 10000
             }
          ]
       },
       {
-         "Minérios":[
+         "Pokéshakes": [
             {
-               "item":"minecraft:coal",
-               "price":100
+               "item": "cobblecuisine:low_green_shake",
+               "price": 1000
             },
             {
-               "item":"minecraft:raw_copper",
-               "price":500
+               "item": "cobblecuisine:low_red_shake",
+               "price": 1000
             },
             {
-               "item":"minecraft:raw_iron",
-               "price":1000
+               "item": "cobblecuisine:low_blue_shake",
+               "price": 1000
             },
             {
-               "item":"minecraft:raw_gold",
-               "price":1000
+               "item": "cobblecuisine:low_purple_shake",
+               "price": 1000
             },
             {
-               "item":"minecraft:redstone",
-               "price":100
+               "item": "cobblecuisine:low_yellow_shake",
+               "price": 1000
             },
             {
-               "item":"minecraft:lapis_lazuli",
-               "price":100
+               "item": "cobblecuisine:low_pink_shake",
+               "price": 1000
             },
             {
-               "item":"minecraft:diamond",
-               "price":2000
+               "item": "cobblecuisine:medium_green_shake",
+               "price": 3000
             },
             {
-               "item":"minecraft:emerald",
-               "price":750
+               "item": "cobblecuisine:medium_red_shake",
+               "price": 3000
             },
             {
-               "item":"minecraft:netherite_scrap",
-               "price":35000
+               "item": "cobblecuisine:medium_blue_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:medium_purple_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:medium_yellow_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:medium_pink_shake",
+               "price": 3000
+            },
+            {
+               "item": "cobblecuisine:high_green_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_red_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_blue_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_purple_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_yellow_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:high_pink_shake",
+               "price": 5000
+            },
+            {
+               "item": "cobblecuisine:regular_jewel_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_earthy_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_violet_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_verdant_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_coral_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:regular_bb_shake",
+               "price": 7000
+            },
+            {
+               "item": "cobblecuisine:deluxe_jewel_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_earthy_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_violet_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_verdant_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_coral_shake",
+               "price": 10000
+            },
+            {
+               "item": "cobblecuisine:deluxe_bb_shake",
+               "price": 10000
             }
          ]
       },
       {
-         "Minérios (Barra)":[
+         "Beans": [
             {
-               "item":"minecraft:copper_ingot",
-               "price":600
+               "item": "cobblecuisine:bean_seeds",
+               "price": 500
             },
             {
-               "item":"minecraft:iron_ingot",
-               "price":1100
+               "item": "cobblecuisine:red_bean",
+               "price": 2000
             },
             {
-               "item":"minecraft:gold_ingot",
-               "price":1100
+               "item": "cobblecuisine:yellow_bean",
+               "price": 2000
             },
             {
-               "item":"minecraft:redstone_block",
-               "price":800
+               "item": "cobblecuisine:green_bean",
+               "price": 2000
             },
             {
-               "item":"minecraft:lapis_block",
-               "price":800
+               "item": "cobblecuisine:orange_bean",
+               "price": 2000
             },
             {
-               "item":"minecraft:netherite_ingot",
-               "price":100000
+               "item": "cobblecuisine:blue_bean",
+               "price": 2000
             }
          ]
       },
       {
-         "Z-Move":[
+         "Held Items": [
             {
-               "item":"mega_showdown:sparkling_stone_dark",
-               "price":100000
+               "item": "cobblemon:ability_shield",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:sparkling_stone_light",
-               "price":100000
+               "item": "cobblemon:absorb_bulb",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:z-ring",
-               "price":500000
+               "item": "cobblemon:air_balloon",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:z-ring_yellow",
-               "price":500000
+               "item": "cobblemon:assault_vest",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:z-ring_green",
-               "price":500000
+               "item": "cobblemon:big_root",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:z-ring_blue",
-               "price":500000
+               "item": "cobblemon:binding_band",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:z-ring_pink",
-               "price":500000
+               "item": "cobblemon:black_sludge",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:z-ring_red",
-               "price":500000
+               "item": "cobblemon:blunder_policy",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:olivias_z-ring",
-               "price":500000
+               "item": "cobblemon:bright_powder",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:hapus_z-ring",
-               "price":500000
+               "item": "cobblemon:cell_battery",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:z-power_ring",
-               "price":500000
+               "item": "cobblemon:choice_band",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:olivia_z-power_ring",
-               "price":500000
+               "item": "cobblemon:choice_scarf",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:hapu_z-power_ring",
-               "price":500000
+               "item": "cobblemon:choice_specs",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:rocket_z-power_ring",
-               "price":500000
+               "item": "cobblemon:cleanse_tag",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:gladion_z-power_ring",
-               "price":500000
+               "item": "cobblemon:covert_cloak",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:nanu_z-power_ring",
-               "price":500000
+               "item": "cobblemon:damp_rock",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:deep_sea_scale",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:deep_sea_tooth",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:destiny_knot",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:eject_button",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:eject_pack",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:everstone",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:eviolite",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:expert_belt",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:exp_share",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:flame_orb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:float_stone",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:focus_band",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:focus_sash",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:heat_rock",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:heavy_duty_boots",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:icy_rock",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:iron_ball",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:kings_rock",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:leftovers",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:life_orb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:light_ball",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:light_clay",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:loaded_dice",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:lucky_egg",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:medicinal_leek",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:mental_herb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:metal_powder",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:metronome",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:mirror_herb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:muscle_band",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:power_herb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:protective_pads",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:punching_glove",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:quick_claw",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:quick_powder",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:razor_claw",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:razor_fang",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:red_card",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:ring_target",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:rocky_helmet",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:room_service",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:safety_goggles",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:scope_lens",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:shed_shell",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:shell_bell",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:smoke_ball",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:smooth_rock",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:soothe_bell",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:sticky_barb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:terrain_extender",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:throat_spray",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:toxic_orb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:utility_umbrella",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:weakness_policy",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:white_herb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:wide_lens",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:wise_glasses",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:zoom_lens",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:black_belt",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:black_glasses",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:charcoal_stick",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:dragon_fang",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:hard_stone",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:magnet",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:metal_coat",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:miracle_seed",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:mystic_water",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:never_melt_ice",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:poison_barb",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:sharp_beak",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:silk_scarf",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:silver_powder",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:soft_sand",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:spell_tag",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:twisted_spoon",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:power_weight",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:power_anklet",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:power_band",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:power_belt",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:power_bracer",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:power_lens",
+               "price": 1000
             }
          ]
       },
       {
-         "Dynamax":[
+         "Mints": [
             {
-               "item":"mega_showdown:wishing_star",
-               "price":100000
+               "item": "cobblemon:lonely_mint",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:dynamax_band",
-               "price":500000
+               "item": "cobblemon:adamant_mint",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:max_mushroom",
-               "price":100000
+               "item": "cobblemon:naughty_mint",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:dynamax_candy",
-               "price":100000
+               "item": "cobblemon:brave_mint",
+               "price": 1000
             },
             {
-               "item":"mega_showdown:power_spot",
-               "price":200000
+               "item": "cobblemon:bold_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:impish_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:lax_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:relaxed_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:modest_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:mild_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:rash_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:quiet_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:calm_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:gentle_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:careful_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:sassy_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:timid_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:hasty_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:jolly_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:naive_mint",
+               "price": 1000
+            },
+            {
+               "item": "cobblemon:serious_mint",
+               "price": 1000
             }
          ]
       },
       {
-         "Tera":[
+         "Mint Leaf": [
             {
-               "item":"mega_showdown:tera_orb",
-               "price":50000
+               "item": "cobblemon:red_mint_leaf",
+               "price": 500
+            },
+            {
+               "item": "cobblemon:blue_mint_leaf",
+               "price": 500
+            },
+            {
+               "item": "cobblemon:green_mint_leaf",
+               "price": 500
+            },
+            {
+               "item": "cobblemon:white_mint_leaf",
+               "price": 500
+            },
+            {
+               "item": "cobblemon:cyan_mint_leaf",
+               "price": 500
+            },
+            {
+               "item": "cobblemon:pink_mint_leaf",
+               "price": 500
             }
          ]
       },
       {
-         "Mega":[
+         "Z-Move": [
             {
-               "item":"mega_showdown:keystone",
-               "price":100000
+               "item": "mega_showdown:sparkling_stone_dark",
+               "price": 100000
             },
             {
-               "item":"mega_showdown:megabracelet",
-               "price":500000
+               "item": "mega_showdown:sparkling_stone_light",
+               "price": 100000
             },
             {
-               "item":"mega_showdown:megabracelet_red",
-               "price":500000
+               "item": "mega_showdown:z-ring",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:megabracelet_yellow",
-               "price":500000
+               "item": "mega_showdown:z-ring_yellow",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:megabracelet_pink",
-               "price":500000
+               "item": "mega_showdown:z-ring_green",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:megabracelet_green",
-               "price":500000
+               "item": "mega_showdown:z-ring_blue",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:megabracelet_blue",
-               "price":500000
+               "item": "mega_showdown:z-ring_pink",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:megabracelet_black",
-               "price":500000
+               "item": "mega_showdown:z-ring_red",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:megaring",
-               "price":500000
+               "item": "mega_showdown:olivias_z-ring",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:brendan_mega_cuff",
-               "price":500000
+               "item": "mega_showdown:hapus_z-ring",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:lysandre_ring",
-               "price":500000
+               "item": "mega_showdown:z-power_ring",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:korrina_glove",
-               "price":500000
+               "item": "mega_showdown:olivia_z-power_ring",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:maxie_glasses",
-               "price":500000
+               "item": "mega_showdown:hapu_z-power_ring",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:archie_anchor",
-               "price":500000
+               "item": "mega_showdown:rocket_z-power_ring",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:may_bracelet",
-               "price":500000
+               "item": "mega_showdown:gladion_z-power_ring",
+               "price": 500000
             },
             {
-               "item":"mega_showdown:lisia_mega_tiara",
-               "price":500000
+               "item": "mega_showdown:nanu_z-power_ring",
+               "price": 500000
             }
          ]
       },
       {
-         "Omni Ring":[
+         "Dynamax": [
             {
-               "item":"mega_showdown:omni_ring",
-               "price":1500000
+               "item": "mega_showdown:wishing_star",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:dynamax_band",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:max_mushroom",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:dynamax_candy",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:power_spot",
+               "price": 200000
+            }
+         ]
+      },
+      {
+         "Tera": [
+            {
+               "item": "mega_showdown:tera_orb",
+               "price": 50000
+            }
+         ]
+      },
+      {
+         "Mega": [
+            {
+               "item": "mega_showdown:keystone",
+               "price": 100000
+            },
+            {
+               "item": "mega_showdown:megabracelet",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_red",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_yellow",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_pink",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_green",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_blue",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megabracelet_black",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:megaring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:brendan_mega_cuff",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:lysandre_ring",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:korrina_glove",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:maxie_glasses",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:archie_anchor",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:may_bracelet",
+               "price": 500000
+            },
+            {
+               "item": "mega_showdown:lisia_mega_tiara",
+               "price": 500000
+            }
+         ]
+      },
+      {
+         "TMs": [
+            {
+               "item": "tmcraft:tm_10000000voltthunderbolt",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_absorb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_accelerock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_acid",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_acidarmor",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aciddownpour",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_acidspray",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_acrobatics",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_acupressure",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aerialace",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aeroblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_afteryou",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_agility",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aircutter",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_airslash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_alloutpummeling",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_allyswitch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_amnesia",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_anchorshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ancientpower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_appleacid",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aquacutter",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aquajet",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aquaring",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aquastep",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aquatail",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_armorcannon",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_armthrust",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aromatherapy",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aromaticmist",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_assist",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_assurance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_astonish",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_astralbarrage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_attackorder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_attract",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aurasphere",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aurawheel",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_aurorabeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_auroraveil",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_autotomize",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_avalanche",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_axekick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_babydolleyes",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_baddybad",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_banefulbunker",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_barbbarrage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_barrage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_barrier",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_batonpass",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_beakblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_beatup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_behemothbash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_behemothblade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_belch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bellydrum",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bestow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bide",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bite",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bitterblade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bittermalice",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_blackholeeclipse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_blastburn",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_blazekick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_blazingtorque",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bleakwindstorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_blizzard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_block",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bloomdoom",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_blueflare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bodypress",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bodyslam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_boltbeak",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_boltstrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_boneclub",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bonemerang",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bonerush",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_boomburst",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bounce",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bouncybubble",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_branchpoke",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bravebird",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_breakingswipe",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_breakneckblitz",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_brickbreak",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_brine",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_brutalswing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bubble",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bubblebeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bugbite",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bugbuzz",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bulkup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bulldoze",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bulletpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_bulletseed",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_burningjealousy",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_burnup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_buzzybuzz",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_calmmind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_camouflage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_captivate",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_catastropika",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ceaselessedge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_celebrate",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_charge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_chargebeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_charm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_chatter",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_chillingwater",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_chillyreception",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_chipaway",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_chloroblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_circlethrow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_clamp",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_clangingscales",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_clangoroussoul",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_clangoroussoulblaze",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_clearsmog",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_closecombat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_coaching",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_coil",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_collisioncourse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_combattorque",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_cometpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_comeuppance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_confide",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_confuseray",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_confusion",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_constrict",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_continentalcrush",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_conversion",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_conversion2",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_copycat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_coreenforcer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_corkscrewcrash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_corrosivegas",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_cosmicpower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_cottonguard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_cottonspore",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_counter",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_courtchange",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_covet",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_crabhammer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_craftyshield",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_crosschop",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_crosspoison",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_crunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_crushclaw",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_crushgrip",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_curse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_cut",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_darkestlariat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_darkpulse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_darkvoid",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dazzlinggleam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_decorate",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_defendorder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_defensecurl",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_defog",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_destinybond",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_detect",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_devastatingdrake",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_diamondstorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dig",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_disable",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_disarmingvoice",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_discharge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_direclaw",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dive",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dizzypunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doodle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doomdesire",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doubleedge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doublehit",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doubleironbash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doublekick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doubleshock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doubleslap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_doubleteam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dracometeor",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragonascent",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragonbreath",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragonclaw",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragondance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragondarts",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragonenergy",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragonhammer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragonpulse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragonrage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragonrush",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragontail",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_drainingkiss",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_drainpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dreameater",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_drillpeck",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_drillrun",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_drumbeating",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dualchop",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dualwingbeat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dynamaxcannon",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dynamicpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_earthpower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_earthquake",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_echoedvoice",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_eerieimpulse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_eeriespell",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_eggbomb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_electricterrain",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_electrify",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_electroball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_electrodrift",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_electroweb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_embargo",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ember",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_encore",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_endeavor",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_endure",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_energyball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_entrainment",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_eruption",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_esperwing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_eternabeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_expandingforce",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_explosion",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_extrasensory",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_extremeevoboost",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_extremespeed",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_facade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fairylock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fairywind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fakeout",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_faketears",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_falsesurrender",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_falseswipe",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_featherdance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_feint",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_feintattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fellstinger",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fierydance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fierywrath",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_filletaway",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_finalgambit",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fireblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_firefang",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_firelash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_firepledge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_firepunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_firespin",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_firstimpression",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fishiousrend",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fissure",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flail",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flameburst",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flamecharge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flamewheel",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flamethrower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flareblitz",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flashcannon",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flatter",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fleurcannon",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fling",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flipturn",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_floatyfall",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_floralhealing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flowershield",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flowertrick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fly",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_flyingpress",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_focusblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_focusenergy",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_focuspunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_followme",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_forcepalm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_foresight",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_forestscurse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_foulplay",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_freezedry",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_freezeshock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_freezingglare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_freezyfrost",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_frenzyplant",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_frostbreath",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_frustration",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_furyattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_furycutter",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_furyswipes",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fusionbolt",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_fusionflare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_futuresight",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gastroacid",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_geargrind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gearup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_genesissupernova",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_geomancy",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gigadrain",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gigaimpact",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gigatonhammer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gigavolthavoc",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_glaciallance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_glaciate",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_glaiverush",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_glare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_glitzyglow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxbefuddle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxcannonade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxcentiferno",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxchistrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxcuddle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxdepletion",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxdrumsolo",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxfinale",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxfireball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxfoamburst",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxgoldrush",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxgravitas",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxhydrosnipe",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxmalodor",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxmeltdown",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxoneblow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxrapidflow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxreplenish",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxresonance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxsandblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxsmite",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxsnooze",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxsteelsurge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxstonesurge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxstunshock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxsweetness",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxtartness",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxterror",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxvinelash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxvolcalith",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxvoltcrash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxwildfire",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gmaxwindrage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_grassknot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_grasspledge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_grasswhistle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_grassyglide",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_grassyterrain",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gravapple",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gravity",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_growl",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_growth",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_grudge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_guardianofalola",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_guardsplit",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_guardswap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_guillotine",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gunkshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gust",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_gyroball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hail",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hammerarm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_happyhour",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_harden",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_haze",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_headbutt",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_headcharge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_headlongrush",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_headsmash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_healbell",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_healblock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_healingwish",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_healorder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_healpulse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_heartstamp",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_heartswap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_heatcrash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_heatwave",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_heavyslam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_helpinghand",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hex",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hiddenpower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_highhorsepower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_highjumpkick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_holdback",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_holdhands",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_honeclaws",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hornattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_horndrill",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hornleech",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_howl",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hurricane",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hydrocannon",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hydropump",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hydrosteam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hydrovortex",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hyperbeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hyperdrill",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hyperfang",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hyperspacefury",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hyperspacehole",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hypervoice",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hypnosis",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_iceball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_icebeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_iceburn",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_icefang",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_icehammer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_icepunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_iceshard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_icespinner",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_iciclecrash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_iciclespear",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_icywind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_imprison",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_incinerate",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_infernalparade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_inferno",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_infernooverdrive",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_infestation",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ingrain",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_instruct",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_iondeluge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_irondefense",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ironhead",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_irontail",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_jawlock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_jetpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_judgment",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_jumpkick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_junglehealing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_karatechop",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_kinesis",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_kingsshield",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_knockoff",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_kowtowcleave",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_landswrath",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_laserfocus",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lashout",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lastresort",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lastrespects",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lavaplume",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_leafage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_leafblade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_leafstorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_leaftornado",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_leechlife",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_leechseed",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_leer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_letssnuggleforever",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lifedew",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lightofruin",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lightscreen",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lightthatburnsthesky",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_liquidation",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lockon",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lovelykiss",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lowkick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lowsweep",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_luckychant",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_luminacrash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lunarblessing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lunardance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lunge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_lusterpurge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_machpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magicalleaf",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magicaltorque",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magiccoat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magicpowder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magicroom",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magmastorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magnetbomb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magneticflux",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magnetrise",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_magnitude",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_makeitrain",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maliciousmoonsault",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_matblock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxairstream",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxdarkness",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxflare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxflutterby",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxgeyser",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxguard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxhailstorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxknuckle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxlightning",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxmindstorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxooze",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxovergrowth",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxphantasm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxquake",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxrockfall",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxstarfall",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxsteelspike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxstrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_maxwyrmwind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_meanlook",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_meditate",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mefirst",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_megadrain",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_megahorn",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_megakick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_megapunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_memento",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_menacingmoonrazemaelstrom",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_metalburst",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_metalclaw",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_metalsound",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_meteorassault",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_meteorbeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_meteormash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_metronome",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_milkdrink",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mimic",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mindblown",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mindreader",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_minimize",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_miracleeye",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mirrorcoat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mirrormove",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mirrorshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mist",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mistball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mistyexplosion",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mistyterrain",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_moonblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_moongeistbeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_moonlight",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_morningsun",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mortalspin",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mountaingale",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mudbomb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mudshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mudslap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mudsport",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_muddywater",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_multiattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mysticalfire",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mysticalpower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_nastyplot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_naturalgift",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_naturepower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_naturesmadness",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_needlearm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_neverendingnightmare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_nightdaze",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_nightmare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_nightshade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_nightslash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_nobleroar",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_noretreat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_noxioustorque",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_nuzzle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_oblivionwing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_obstruct",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_oceanicoperetta",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_octazooka",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_octolock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_odorsleuth",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ominouswind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_orderup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_originpulse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_outrage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_overdrive",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_overheat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_painsplit",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_paraboliccharge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_partingshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_payback",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_payday",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_peck",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_perishsong",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_petalblizzard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_petaldance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_phantomforce",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_photongeyser",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pikapapow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pinmissile",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_plasmafists",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_playnice",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_playrough",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pluck",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_poisonfang",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_poisongas",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_poisonjab",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_poisonpowder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_poisonsting",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_poisontail",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pollenpuff",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_poltergeist",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_populationbomb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pounce",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pound",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powdersnow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powergem",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powershift",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powersplit",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powerswap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powertrick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powertrip",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_poweruppunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_powerwhip",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_precipiceblades",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_present",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_prismaticlaser",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_protect",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psybeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psyblade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psychup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psychic",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psychicfangs",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psychicterrain",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psychoboost",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psychocut",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psychoshift",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psyshieldbash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psyshock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psystrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psywave",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pulverizingpancake",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_punishment",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_purify",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pursuit",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_pyroball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_quash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_quickattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_quickguard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_quiverdance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ragefist",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ragepowder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ragingbull",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ragingfury",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_raindance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rapidspin",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_razorleaf",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_razorshell",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_razorwind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_recover",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_recycle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_reflect",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_reflecttype",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_refresh",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_relicsong",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rest",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_retaliate",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_return",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_revelationdance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_revenge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_reversal",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_revivalblessing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_risingvoltage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_roar",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_roaroftime",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rockblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rockclimb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rockpolish",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rockslide",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rocksmash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rockthrow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rocktomb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rockwrecker",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_roleplay",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rollingkick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rollout",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_roost",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_rototiller",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_round",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ruination",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sacredfire",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sacredsword",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_safeguard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_saltcure",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sandattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sandsearstorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sandstorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sandtomb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sappyseed",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_savagespinout",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_scald",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_scaleshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_scaryface",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_scorchingsands",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_scratch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_screech",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_searingshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_searingsunrazesmash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_secretpower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_secretsword",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_seedbomb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_seedflare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_seismictoss",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_selfdestruct",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shadowball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shadowbone",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shadowclaw",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shadowforce",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shadowpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shadowsneak",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shadowstrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sharpen",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shatteredpsyche",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shedtail",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sheercold",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shellsidearm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shellsmash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shelltrap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shelter",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shiftgear",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shockwave",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_shoreup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_signalbeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_silktrap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_silverwind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_simplebeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sinisterarrowraid",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sizzlyslide",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sketch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_skillswap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_skittersmack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_skullbash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_skyattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_skydrop",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_skyuppercut",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_slackoff",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_slam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_slash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sleeppowder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sleeptalk",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sludge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sludgebomb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sludgewave",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_smackdown",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_smartstrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_smellingsalts",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_smog",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_smokescreen",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_snaptrap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_snarl",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_snatch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_snipeshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_snore",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_snowscape",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_soak",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_softboiled",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_solarbeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_solarblade",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sonicboom",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_soulstealing7starstrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spacialrend",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spark",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sparklingaria",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sparklyswirl",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spectralthief",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_speedswap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spicyextract",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spiderweb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spikecannon",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spikes",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spikyshield",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spinout",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spiritbreak",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spiritshackle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spitup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spite",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_splash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_splinteredstormshards",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_splishysplash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spore",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_spotlight",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_springtidestorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stealthrock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_steameruption",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_steamroller",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_steelbeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_steelroller",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_steelwing",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stickyweb",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stockpile",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stokedsparksurfer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stomp",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stompingtantrum",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stoneaxe",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stoneedge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_storedpower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stormthrow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_strangesteam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_strength",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_strengthsap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stringshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_struggle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_strugglebug",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stuffcheeks",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_stunspore",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_submission",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_substitute",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_subzeroslammer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_suckerpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sunnyday",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sunsteelstrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_superfang",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_superpower",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_supersonic",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_supersonicskystrike",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_surf",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_surgingstrikes",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_swagger",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_swallow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sweetkiss",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_sweetscent",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_swift",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_switcheroo",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_swordsdance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_synchronoise",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_synthesis",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tackle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tailglow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tailslap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tailwhip",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tailwind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_takedown",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_takeheart",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tarshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_taunt",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tearfullook",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_teatime",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_technoblast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tectonicrage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_teeterdance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_telekinesis",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_teleport",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_terablast",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_terrainpulse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thief",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thousandarrows",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thousandwaves",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thrash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_throatchop",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thunder",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thunderbolt",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thundercage",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thunderfang",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thunderouskick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thunderpunch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thundershock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thunderwave",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tickle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tidyup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_topsyturvy",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_torchsong",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_torment",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_toxic",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_toxicspikes",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_toxicthread",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_trailblaze",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_transform",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_triattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_trick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_trickortreat",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_trickroom",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_triplearrows",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tripleaxel",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tripledive",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_triplekick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tropkick",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_trumpcard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_twinbeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_twineedle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_twinkletackle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_twister",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_uturn",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_uproar",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_vacuumwave",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_vcreate",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_veeveevolley",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_venomdrench",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_venoshock",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_victorydance",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_vinewhip",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_visegrip",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_vitalthrow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_voltswitch",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_volttackle",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wakeupslap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_waterfall",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_watergun",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_waterpledge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_waterpulse",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_watershuriken",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_watersport",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_waterspout",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wavecrash",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_weatherball",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_whirlpool",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_whirlwind",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wickedblow",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wickedtorque",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wideguard",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wildboltstorm",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wildcharge",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_willowisp",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wingattack",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wish",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_withdraw",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wonderroom",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_woodhammer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_workup",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_worryseed",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wrap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_wringout",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_xscissor",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_yawn",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_zapcannon",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_zenheadbutt",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_zingzap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_zippyzap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_temperflare",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_supercellslam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_hardpress",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_dragoncheer",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_alluringvoice",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_psychicnoise",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_upperhand",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_electroshot",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_ficklebeam",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_burningbulwark",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_thunderclap",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_mightycleave",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_tachyoncutter",
+               "price": 100000
+            },
+            {
+               "item": "tmcraft:tm_terastarstorm",
+               "price": 100000
+            }
+         ]
+      },
+      {
+         "Plates" : [
+            {
+               "item" : "mega_showdown:legend_plate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:earthplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:skyplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:insectplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:ironplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:flameplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:splashplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:meadowplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:zapplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:fistplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:icicleplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:toxicplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:stoneplate",
+               "price" : 50000
+            },
+            {
+               "item" : "mega_showdown:mindplate",
+               "price" : 50000
+            },
+            {
+               "item": "mega_showdown:spookyplate",
+               "price": 50000
+            },
+            {
+               "item": "mega_showdown:dracoplate",
+               "price": 50000
+            },
+            {
+               "item": "mega_showdown:dreadplate",
+               "price": 50000
+            },
+            {
+               "item": "mega_showdown:ironplate",
+               "price": 50000
+            },
+            {
+               "item": "mega_showdown:pixieplate",
+               "price": 50000
+            }
+         ]
+      },
+      {
+         "Vitaminas" : [
+            {
+               "item" : "cobblemon:hp_up",
+               "price" : 10000
+            },
+            {
+               "item" : "cobblemon:protein",
+               "price" : 10000
+            },
+            {
+               "item" : "cobblemon:iron",
+               "price" : 10000
+            },
+            {
+               "item" : "cobblemon:calcium",
+               "price" : 10000
+            },
+            {
+               "item" : "cobblemon:zinc",
+               "price" : 10000
+            },
+            {
+               "item" : "cobblemon:carbos",
+               "price" : 10000
+            },
+            {
+               "item" : "cobblemon:pp_up",
+               "price" : 10000
+            }, 
+            {
+               "item" : "cobblemon:pp_max",
+               "price" : 10000
+            }
+         ]
+      },
+      {
+         "Omni Ring": [
+            {
+               "item": "mega_showdown:omni_ring",
+               "price": 1500000
             }
          ]
       }
