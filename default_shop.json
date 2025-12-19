@@ -177,6 +177,18 @@
          ]
       },
       {
+         "Abilities" : [
+            {
+               "item" : "cobblemon:ability_capsule",
+               "price" : 50000
+            },
+            {
+               "item" : "cobblemon:ability_patch",
+               "price" : 50000
+            }
+         ]
+      },
+      {
          "Cobble Ball": [
             {
                "item": "cobblemon:poke_ball",
