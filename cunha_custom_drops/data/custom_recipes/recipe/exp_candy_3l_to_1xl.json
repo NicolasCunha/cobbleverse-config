@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL"
+  ],
+  "key": {
+    "L": {
+        "item": "cobblemon:exp_candy_l"
+    }
+  },
+  "result": {
+    "id": "cobblemon:exp_candy_xl",
+    "count": 1
+  }
+}
