@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+        {
+            "_comment": "Relic Coins",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "cobblemon:relic_coin",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "min": 16,
+                                "max": 32
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
