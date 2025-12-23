@@ -457,30 +457,38 @@
          ]
       },
       {
-         "Blocos": [
+         "Bottle Caps": [
             {
-               "item": "minecraft:sculk",
-               "price": 1000
+               "item" : "obc:bottle_cap",
+               "price" : 1750000
             },
             {
-               "item": "minecraft:sculk_sensor",
-               "price": 1000
+               "item" : "obc:bottle_cap_hp",
+               "price" : 1800000
             },
             {
-               "item": "minecraft:sculk_shrieker",
-               "price": 1000
+               "item" : "obc:bottle_cap_attack",
+               "price" : 1800000
             },
             {
-               "item": "minecraft:bookshelf",
-               "price": 1000
+               "item" : "obc:bottle_cap_defence",
+               "price" : 1800000
             },
             {
-               "item": "minecraft:obsidian",
-               "price": 1000
+               "item" : "obc:bottle_cap_special_attack",
+               "price" : 1800000
             },
             {
-               "item": "minecraft:cobweb",
-               "price": 100
+               "item" : "obc:bottle_cap_special_defence",
+               "price" : 1800000
+            },
+            {
+               "item" : "obc:bottle_cap_speed",
+               "price" : 1800000
+            },
+            {
+               "item": "obc:bottle_cap_gold",
+               "price": 10000000
             }
          ]
       },
@@ -5805,6 +5813,34 @@
             {
                "item": "mega_showdown:adamant_crystal",
                "price": 100000
+            }
+         ]
+      },
+      {
+         "Blocos": [
+            {
+               "item": "minecraft:sculk",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:sculk_sensor",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:sculk_shrieker",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:bookshelf",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:obsidian",
+               "price": 1000
+            },
+            {
+               "item": "minecraft:cobweb",
+               "price": 100
             }
          ]
       }
