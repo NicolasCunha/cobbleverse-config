@@ -1,0 +1,74 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    [
+      { "tag": "mega_showdown:mega_stone" },
+      { "item": "mega_showdown:abomasite" },
+      { "item": "lumymon:dragonitite" },
+      { "item": "lumymon:victreebelite" },
+      { "item": "lumymon:chesnaughtite" },
+      { "item": "lumymon:delphoxite" },
+      { "item": "lumymon:greninjite" },
+      { "item": "lumymon:hawluchite" },
+      { "item": "lumymon:malamarite" },
+      { "item": "lumymon:raichunite_x" },
+      { "item": "lumymon:raichunite_y" }
+    ],
+    [
+      { "tag": "mega_showdown:mega_stone" },
+      { "item": "mega_showdown:abomasite" },
+      { "item": "lumymon:dragonitite" },
+      { "item": "lumymon:victreebelite" },
+      { "item": "lumymon:chesnaughtite" },
+      { "item": "lumymon:delphoxite" },
+      { "item": "lumymon:greninjite" },
+      { "item": "lumymon:hawluchite" },
+      { "item": "lumymon:malamarite" },
+      { "item": "lumymon:raichunite_x" },
+      { "item": "lumymon:raichunite_y" }
+    ],
+    [
+      { "tag": "mega_showdown:mega_stone" },
+      { "item": "mega_showdown:abomasite" },
+      { "item": "lumymon:dragonitite" },
+      { "item": "lumymon:victreebelite" },
+      { "item": "lumymon:chesnaughtite" },
+      { "item": "lumymon:delphoxite" },
+      { "item": "lumymon:greninjite" },
+      { "item": "lumymon:hawluchite" },
+      { "item": "lumymon:malamarite" },
+      { "item": "lumymon:raichunite_x" },
+      { "item": "lumymon:raichunite_y" }
+    ],
+    [
+      { "tag": "mega_showdown:mega_stone" },
+      { "item": "mega_showdown:abomasite" },
+      { "item": "lumymon:dragonitite" },
+      { "item": "lumymon:victreebelite" },
+      { "item": "lumymon:chesnaughtite" },
+      { "item": "lumymon:delphoxite" },
+      { "item": "lumymon:greninjite" },
+      { "item": "lumymon:hawluchite" },
+      { "item": "lumymon:malamarite" },
+      { "item": "lumymon:raichunite_x" },
+      { "item": "lumymon:raichunite_y" }
+    ],
+    [
+      { "tag": "mega_showdown:mega_stone" },
+      { "item": "mega_showdown:abomasite" },
+      { "item": "lumymon:dragonitite" },
+      { "item": "lumymon:victreebelite" },
+      { "item": "lumymon:chesnaughtite" },
+      { "item": "lumymon:delphoxite" },
+      { "item": "lumymon:greninjite" },
+      { "item": "lumymon:hawluchite" },
+      { "item": "lumymon:malamarite" },
+      { "item": "lumymon:raichunite_x" },
+      { "item": "lumymon:raichunite_y" }
+    ]
+  ],
+  "result": {
+    "id": "mega_showdown:mega_stone",
+    "count": 1
+  }
+}
